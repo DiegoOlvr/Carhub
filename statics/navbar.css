@@ -2,9 +2,10 @@
     padding:0;
     margin:0;
     font-family:'Times New Roman', Times, serif;
+    font-size:12px;
 }
 ul{
-    background-color: darkgray;
+    background-color: white;
     list-style: none;
 }
 ul li{
@@ -14,10 +15,10 @@ ul li{
 ul li a {
     display:block;
     padding:30px 25px;
-    color: #fff;
+    color: black;
     text-decoration: none;
     text-align: center;
-    font-size: 12px;
+    font-size: 17px;
     
 }
 ul li ul.dropdown li{
@@ -49,12 +50,12 @@ footer{
   }
 p{
     color:black;
-    font-size: 12px;
+    font-size: 17px;
 }
 .footer{
     color:white;
     font-size: 20px;
-
+    text-align: center;
 }
 .logo{
     display:flex;
