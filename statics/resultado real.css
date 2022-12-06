@@ -1,7 +1,7 @@
 .container {
     position:fixed;
     top: 50%;
-    left: 30%;
+    left: 40%;
     width:60em;
     height:70em;
     margin-top: -18em; /*set to a negative number 1/2 of your height*/
@@ -68,7 +68,7 @@ footer{
 
 .containerteste{
 margin-top: 5%;
-margin-left:30%
+margin-left:40%
 
 }
 .title{
